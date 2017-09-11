@@ -1,10 +1,8 @@
-# Links
+Le markdown supporte deux types de liens les: inlines et les reference.
 
-Markdown supports two styles of links: inline and reference.
+Avec les deux styles, le lien  est délimité par des [square brackets].
 
-In both styles, the link text is delimited by [square brackets].
-
-To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes. For example:
+Pour créer un lien inline, utilisez les parenthèses normales directement après les square bracket de fermeture du lien. Dans les parenthèses, mettez l'URL où vous voulez vous diriger, accompagnée d'une description optionelle, entourée de guillemets. Par exemple:
 ```markdown
 [I'm an inline-style link](https://www.google.com)
 
